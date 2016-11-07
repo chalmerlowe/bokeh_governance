@@ -1,3 +1,8 @@
+# NOTE: this document and associated documents are being converted from being pandas specific to being bokeh specific for the purpose of preparing bokeh to enter into a fiscal sponsorship agreement with NUMFOCUS... edits are in progress...
+
+
+
+
 # pandas Project Governance
 
 The purpose of this repository is to formalize the governance process that the
