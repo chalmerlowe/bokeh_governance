@@ -2,18 +2,12 @@
 License
 =======
 
-pandas is distributed under a 3-clause ("Simplified" or "New") BSD license.
+bokeh is distributed under a 3-clause ("Simplified" or "New") BSD license.
 
-pandas license
+bokeh license
 ==============
 
-Copyright (c) 2012-2016, pandas Development Team.
-All rights reserved.
-
-Copyright (c) 2011-2012, Lambda Foundry, Inc. and pandas Development Team.
-All rights reserved.
-
-Copyright (c) 2008-2011 AQR Capital Management, LLC.
+Copyright (c) 2012-2017, bokeh Core Team.
 All rights reserved.
 
 Redistribution and use in source and binary forms, with or without
@@ -47,35 +41,30 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 About the Copyright Holders
 ===========================
 
-AQR Capital Management began pandas development in 2008. Development was
-led by Wes McKinney. AQR released the source under this license in 2009.
-Wes is now an employee of Lambda Foundry, and remains the pandas project
-lead.
-
-The pandas Development Team is the collection of developers of the pandas
-project. This includes all of the pandas sub-projects, including pandas
+The bokeh Core Team is the collection of developers of the bokeh
+project. This includes all of the bokeh sub-projects, including bokeh
 itself.
 
-Full credits for pandas contributors can be found in the documentation.
+Full credits for bokeh contributors can be found in the documentation.
 
 Our Copyright Policy
 ====================
 
-pandas uses a shared copyright model. Each contributor maintains copyright
-over their contributions to pandas. However, it is important to note that
+bokeh uses a shared copyright model. Each contributor maintains copyright
+over their contributions to bokeh. However, it is important to note that
 these contributions are typically only changes to the repositories. Thus,
-the pandas source code, in its entirety, is not the copyright of any single
+the bokeh source code, in its entirety, is not the copyright of any single
 person or institution. Instead, it is the collective copyright of the
-entire pandas Development Team. If individual contributors want to maintain
+entire bokeh Core Team. If individual contributors want to maintain
 a record of what changes/contributions they have specific copyright on,
 they should indicate their copyright in the commit message of the change
-when they commit the change to one of the pandas repositories.
+when they commit the change to one of the bokeh repositories.
 
 With this in mind, the following banner should be used in any source code
 file to indicate the copyright and license terms:
 
-	# Copyright (c) pandas Development Team.
+	# Copyright (c) bokeh Core Team.
 	# Distributed under the terms of the Simplified BSD License.
 
-Other licenses can be found in the LICENSES directory of the main pandas
-repository http://github.com/pydata/pandas.
+Other licenses can be found in the LICENSES directory of the main bokeh
+repository http://github.com/pydata/bokeh.

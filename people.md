@@ -1,36 +1,33 @@
-# pandas People
+# bokeh People
 
 ## Benevolent Dictator for Life
 
-Wes McKinney is the Benevolent Dictator for Life (BDFL).
+Bryan Van de Ven is the Benevolent Dictator for Life (BDFL).
 
 ## Project Core Team
 
-- Tom Augspurger
-- Phillip Cloud
-- Andy Hayden
-- Stephan Hoyer
-- Wes McKinney
-- Wouter Overmeire
-- Jeff Reback
-- Skipper Seabold
-- Chang She
-- Masaaki Horikoshi (@sinhrks)
-- Jeff Tratner
-- Joris Van den Bossche
+- Bryan Van de Ven
+- Mateusz Paprocki
+- Damian Avila
+- Sarah Bird
+- hhuuggoo
+- Fabio Pliger
+- Paddy Mullen
+- Havoc Pennington
+- Luke Canavan
+- Peter Wang
 
-## Project NumFOCUS Subcommittee
+## Bokeh Project NumFOCUS Subcommittee
 
-- Phillip Cloud
-- Stephan Hoyer
-- Wes McKinney
-- Jeff Reback
-- Joris Van den Bossche
+- Sarah Bird
+- Ryan Hafen
+- Chalmer Lowe
+- Jake Vanderplas
+- Bryan Van de Ven
 
 ## Code of Conduct Committee
 
-- Safia Abdalla
-- Tom Augspurger
-- Joris Van den Bossche
-- Camille Scott
-- Nathaniel Smith
+- Sarah Bird
+- Ryan Hafen
+- Jake Vanderplas
+- Bryan Van de Ven
